@@ -1,3 +1,9 @@
+//     A    
+//    ABA   
+//   ABCBA  
+//  ABCDCBA
+// ABCDEDCBA
+
 #include<iostream>
 int main()
 {
