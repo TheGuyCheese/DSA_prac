@@ -1,3 +1,6 @@
+//again we use the same concept of running the loop for
+//square of the number rather than the whole number
+//since we will get all the factors anyway
 #include<bits/stdc++.h>
 int main()
 {
