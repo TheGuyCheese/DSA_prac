@@ -1,3 +1,5 @@
+//uses the eucildean algorithm for optimal calculation of gcd
+
 #include<bits/stdc++.h>
 int gcd(int a, int b){
     while(a>0 && b>0){
