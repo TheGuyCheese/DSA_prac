@@ -1,3 +1,5 @@
+//The loop runs for sqrt of the number rather than
+//the whole thing, since it still gives us all the factors anyways
 #include<bits/stdc++.h>
 int main()
 {
