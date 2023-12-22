@@ -1,3 +1,5 @@
+//printing the name using recursion using global variable
+
 #include<bits/stdc++.h>
 int count = 1;
 void name(int n){
