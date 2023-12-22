@@ -1,3 +1,4 @@
+//1 to N without using global variable
 #include<bits/stdc++.h>
 void solution(int n){
     if(n<1) return;
