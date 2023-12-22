@@ -1,3 +1,4 @@
+//printing from 1 to N without using a global variable
 #include<bits/stdc++.h>
 void solution(int i, int n){
     if(i>n) return;
